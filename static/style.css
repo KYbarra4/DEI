@@ -135,3 +135,15 @@ footer {
     color:#ffffff;
     border: none;
 }
+
+h4 {
+  text-align: center;
+}
+
+.col-12 {
+  background-color: lightgrey;
+}
+
+h3 {
+  text-align: center;
+}
